@@ -1,7 +1,11 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div></div>
+  <div class="container">
+    <main>
+      <FlipCardComponent />
+    </main>
+  </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style scoped></style>
